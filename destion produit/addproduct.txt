@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 helloooooo
-=======
 hello mon ami
->>>>>>> 6eb3a3302cca8720044e2be2c0bb5c8920fa2dc9
+
